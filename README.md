@@ -2,7 +2,7 @@
 
 Hi 👋  
 
-I am interested in machine learning, data and predictive analytics, and supply chain management. 
+machine learning, data and predictive analytics, and supply chain management. 
 
 ---
 
