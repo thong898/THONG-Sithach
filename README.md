@@ -27,4 +27,4 @@ I am interested in machine learning, data and predictive analytics, and supply c
 ---
 
 ## 📫 Contact
-- LinkedIn: (add later)
+- LinkedIn: www.linkedin.com/in/thong-sithach
