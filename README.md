@@ -1,9 +1,8 @@
-# Data Analysis Portfolio
+# Data Science & Supply Chain Management
 
 Hi, I’m Thong 👋  
 I’m interested in Data Analysis, Business Analytics, and Forecasting.  
 This repository contains my personal projects and learning journey.
-
 ---
 
 ## 🔍 Projects
