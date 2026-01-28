@@ -1,35 +1,28 @@
 # Data Science & Supply Chain Management
 
-Hi, I’m Thong 👋  
-I’m interested in Data Analysis, Business Analytics, and Forecasting.  
-This repository contains my personal projects and learning journey.
----
+Hi 👋  
 
-## 🔍 Projects
-
-### 1. Sales Analysis Dashboard
-**Tools:** Excel / Power BI  
-- Data cleaning  
-- KPI dashboards  
-- Business insights  
-
-### 2. Forecasting Project
-**Tools:** Python (pandas, ARIMA, XGBoost)  
-- Time series analysis  
-- Model comparison  
-- Forecasting future trends  
-
-### 3. SQL Case Study
-**Tools:** SQL  
-- Data querying  
-- Business problem solving  
+I am interested in machine learning, data and predictive analytics, and supply chain management. 
 
 ---
 
-## 🛠 Skills
-- Python, SQL
-- Excel, Power BI
-- Data analysis, visualization, forecasting
+## 🔍 Academic
+
+### 1. Engineer Degree in Industrial Engineering and Supply Chain Management 
+- Institute of Technology of Cambodia (ITC) - Phnom Penh, Cambodia
+- ECAM LaSalle - Lyon, France
+
+### 2. Master Degree of Engineering in Data Science 
+- Instiute of Technology of Cambodia (ITC) - Phnom Penh, Cambodia
+  
+
+---
+
+## Research Interest
+- Supply Chain Analysis
+- Supervised Machine Learning 
+- Data analysis and Forecasting
+- Inventory Management
 
 ---
 
