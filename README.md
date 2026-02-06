@@ -2,7 +2,7 @@
 
 Hi 👋  
 
-machine learning, data and predictive analytics, and supply chain management. 
+Motivated and multidisciplinary professional with a solid academic background in Data Science and Industrial Engineering and Supply Chain Management, holding a dual engineer’s degree in Industrial Engineering and Supply Chain Management and a Master of Engineering in Data Science. Experienced in teaching, academic research and publication, with a strong foundation in machine learning, predictive analysis, and supply chain management. Demonstrated success in both academic and applied project environments, including applied research, industry linkage initiative and project management. Interest in applied machine learning algorithms in supply chain, trading, and education industries sector. Skilled in Python, AutoCAD, and digital teaching platforms, with proven abilities in educational technology, data – driven analysis, and cross – functional collaboration. 
 
 ---
 
