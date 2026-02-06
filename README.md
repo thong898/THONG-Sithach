@@ -14,7 +14,7 @@ machine learning, data and predictive analytics, and supply chain management.
 
 ### 2. Master Degree of Engineering in Data Science 
 - Instiute of Technology of Cambodia (ITC) - Phnom Penh, Cambodia
-  
+
 
 ---
 
